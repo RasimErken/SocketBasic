@@ -1,0 +1,34 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.4)
+  - Realm (10.30.0):
+    - Realm/Headers (= 10.30.0)
+  - Realm/Headers (10.30.0)
+  - RealmSwift (10.30.0):
+    - Realm (= 10.30.0)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - RealmSwift (~> 10)
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Realm
+    - RealmSwift
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  Realm: 247ccacf72e656c6ee09b242f7d24d5cf99cc058
+  RealmSwift: b3f5c52afa6ac480bd9c3e791c2576f55b3ecb44
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 24f744b900f3b3e47201d72e1c157e2209c35f21
+
+COCOAPODS: 1.11.3
